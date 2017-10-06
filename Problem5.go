@@ -22,3 +22,6 @@ func main() {
         fmt.Println(ir.NextRandom(r))
     }
 }
+
+//was trying to find a number generator when i ran out of time
+//Resource: https://stackoverflow.com/questions/23577091/generating-random-numbers-over-a-range-in-go
